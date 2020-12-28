@@ -1,0 +1,12 @@
+/Users/akiichris/Projects/TempConverter/TempConverter/bin/Debug/netcoreapp3.1/TempConverter.deps.json
+/Users/akiichris/Projects/TempConverter/TempConverter/bin/Debug/netcoreapp3.1/TempConverter.runtimeconfig.json
+/Users/akiichris/Projects/TempConverter/TempConverter/bin/Debug/netcoreapp3.1/TempConverter.runtimeconfig.dev.json
+/Users/akiichris/Projects/TempConverter/TempConverter/bin/Debug/netcoreapp3.1/TempConverter.dll
+/Users/akiichris/Projects/TempConverter/TempConverter/bin/Debug/netcoreapp3.1/TempConverter.pdb
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.csprojAssemblyReference.cache
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.AssemblyInfo.cs
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.csproj.CoreCompileInputs.cache
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.dll
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.pdb
+/Users/akiichris/Projects/TempConverter/TempConverter/obj/Debug/netcoreapp3.1/TempConverter.genruntimeconfig.cache
